@@ -1,2 +1,2 @@
 # burger_machine
-burger making application with python
+burger making application using python
